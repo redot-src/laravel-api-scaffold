@@ -1,6 +1,7 @@
 {
     "name": "redot/laravel-api-scaffold",
     "type": "project",
+    "license": "MIT",
     "description": "Laravel API Scaffold",
     "keywords": ["laravel", "api", "scaffold"],
     "require": {
